@@ -1,4 +1,4 @@
-#Multiroom Chat real-time com WebSocket
+# Multiroom Chat real-time com WebSocket
 
 Projeto desenvolvido no módulo 13 do [Curso Completo do Desenvolvedor NodeJS e MongoDB](https://www.udemy.com/curso-completo-do-desenvolvedor-nodejs).
 
@@ -6,10 +6,10 @@ Os objetos deste projeto são:
 
 - Conhecer um pouco sobre WebSocket
 - Conhecer e utilizar recursos do pacote socket.io
-- Praticar  outros conceitos já vistos
+- Praticar outros conceitos já vistos
 - Desenvolver um webchat simples
 
-##Requisitos
+## Requisitos
 
 Para rodar essa aplicação localmente serão necessários:
 - node
